@@ -2,10 +2,6 @@
 ## Olá
 Curso de github para iniciantes
 
-1 - git start
-
-<a href="http://www.maeda-st.com.br">Link para Maeda</a>
-
 O que são branch(Ramo, ramificação, bifurcar, etc...)?
 É um ponteiro para um commit.
     Para criar um branch:
@@ -19,3 +15,5 @@ O que são branch(Ramo, ramificação, bifurcar, etc...)?
 
     Para apagar um branch:
     git branch -D <nome_branch>
+
+O que é Merge?
