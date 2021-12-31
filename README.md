@@ -7,7 +7,7 @@ Curso de github para iniciantes
 <a href="http://www.maeda-st.com.br">Link para Maeda</a>
 
 O que são branch(Ramo, ramificação, bifurcar, etc...)?
-1 - É um ponteiro para um commit.
+É um ponteiro para um commit.
     Para criar um branch:
     git checkout -b <nome_branch> => O -b é para criar.
 
@@ -16,3 +16,6 @@ O que são branch(Ramo, ramificação, bifurcar, etc...)?
     
     Para mudar de branch:
     git checkout <nome_branch>
+
+    Para apagar um branch:
+    git branch -D <nome_branch>
